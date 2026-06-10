@@ -1,0 +1,6 @@
+{
+  "name": "ロックピック シミュレーター",
+  "description": "ロックピック（開錠ツール）を使って、様々な難易度の鍵を開けるリアルな物理・音響シミュレーションゲーム。トレーニング、レベルステージ、タイムアタックモードを搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
